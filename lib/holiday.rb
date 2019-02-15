@@ -1,6 +1,8 @@
 require 'pry'
 
-def second_supply_for_fourth_of_july(holiday_hash)
+def second_supply_for_fourth_of_july(holiday_hash){
+  :President
+}
  
 end
 
@@ -9,7 +11,7 @@ def add_supply_to_winter_holidays(holiday_hash)
 end
 
 
-def add_supply_to_memorial_day(holiday_hash, supply)
+def add_supply_to_memorial_day 
   
 
 end
